@@ -6,3 +6,12 @@ From Noob like me to Professional
 # Just Follow My Friendly instructions and you will be Professional in Machine Learning
 ----------------------------------------------------------------------
 
+##  Syllabus -
+### *1.Anaconda Navigator*
+### *2.Python Libraries*
+#### *i)NumPy*
+#### *ii)Pandas*
+#### *iii)Matplotlib*
+#### *iv)Scikit-Learn*
+### *3.Algorithms*
+### *4.Project Link*
