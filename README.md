@@ -8,6 +8,7 @@ From Noob like me to Professional
 
 ##  Syllabus -
 ### *1.Anaconda Navigator*
+#### --Download the [Anaconda Navigator] (https://www.anaconda.com/products/individual)
 ### *2.Python Libraries*
 #### *i)NumPy*
 #### *ii)Pandas*
