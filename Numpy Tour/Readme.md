@@ -9,10 +9,10 @@
 
 <h2>Why Use NumPy ?<br></h2>
 
-<p>In Python we have lists that serve the purpose of arrays, but they are slow to process.<br>
+<p>-In Python we have lists that serve the purpose of arrays, but they are slow to process.<br>
 
-NumPy aims to provide an array object that is up to 50x faster that traditional Python lists.<br>
+- NumPy aims to provide an array object that is up to 50x faster that traditional Python lists.<br>
 
-The array object in NumPy is called ndarray, it provides a lot of supporting functions that make working with ndarray very easy.<br>
+- The array object in NumPy is called ndarray, it provides a lot of supporting functions that make working with ndarray very easy.<br>
 
-Arrays are very frequently used in data science, where speed and resources are very important.<br></p>
+- Arrays are very frequently used in data science, where speed and resources are very important.<br></p>
