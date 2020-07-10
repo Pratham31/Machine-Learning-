@@ -9,7 +9,7 @@
 
 <h2>Why Use NumPy ?<br></h2>
 
-<p>-In Python we have lists that serve the purpose of arrays, but they are slow to process.<br>
+<p>- In Python I have lists that serve the purpose of arrays, but they are slow to process.<br>
 
 - NumPy aims to provide an array object that is up to 50x faster that traditional Python lists.<br>
 
