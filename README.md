@@ -19,4 +19,4 @@ From Noob like me to Professional
 #### ii) Gradient Descent.
 #### iii) Logistic Regression(Binomial Classification). 
 #### iv) Logistic Regression(Multinomial Classification).
-
+#### v) Decision Tree.
