@@ -13,7 +13,6 @@ From Noob like me to Professional
 #### i)NumPy
 #### ii)Pandas
 #### iii)Matplotlib
-#### iv)Scikit-Learn
-<br>
+#### iv)Scikit-Learn <br>
 ### 3.Algorithms
 
