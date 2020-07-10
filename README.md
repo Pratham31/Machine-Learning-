@@ -14,7 +14,7 @@ From Noob like me to Professional
 #### ii) Pandas.
 #### iii) Matplotlib.
 #### iv) Seaborn. <br>
-### 3. Algorithms :
+### 3. Algorithms -
 #### i) Linear Regression.
 #### ii) Gradient Descent.
 #### iii) Logistic Regression(Binomial Classification). 
