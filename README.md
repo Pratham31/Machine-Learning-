@@ -21,3 +21,4 @@ From **Noob** like me to **Professional**
 #### iv) Logistic Regression(Multinomial Classification).
 #### v) Decision Tree.
 #### vi) Random Forest.
+#### vi) K Nearest Neighbor .
