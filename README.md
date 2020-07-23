@@ -20,3 +20,4 @@ From **Noob** like me to **Professional**
 #### iii) Logistic Regression(Binomial Classification). 
 #### iv) Logistic Regression(Multinomial Classification).
 #### v) Decision Tree.
+#### v) Random Forest.
